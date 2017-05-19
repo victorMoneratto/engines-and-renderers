@@ -1,0 +1,72 @@
+[submodule "BansheeEngine"]
+	path = BansheeEngine
+	url = https://github.com/BearishSun/BansheeEngine
+[submodule "Cinder"]
+	path = Cinder
+	url = git@github.com:cinder/Cinder.git
+[submodule "Corange"]
+	path = Corange
+	url = https://github.com/orangeduck/Corange.git
+[submodule "EtherealEngine"]
+	path = EtherealEngine
+	url = https://github.com/volcoma/EtherealEngine
+[submodule "Helium"]
+	path = Helium
+	url = git@github.com:HeliumProject/Helium.git
+[submodule "GraphicsSamples"]
+	path = GraphicsSamples
+	url = git@github.com:NVIDIAGameWorks/GraphicsSamples.git
+[submodule "Partikel_accelleration_on_GPU"]
+	path = Partikel_accelleration_on_GPU
+	url = https://github.com/MauriceGit/Partikel_accelleration_on_GPU.git
+[submodule "RenderPipeline"]
+	path = RenderPipeline
+	url = https://github.com/tobspr/RenderPipeline.git
+[submodule "SnowfeetEngine"]
+	path = SnowfeetEngine
+	url = git@github.com:Zylann/SnowfeetEngine.git
+[submodule "bgfx"]
+	path = bgfx
+	url = git@github.com:bkaradzic/bgfx.git
+[submodule "cetech"]
+	path = cetech
+	url = git@github.com:cyberegoorg/cetech.git
+[submodule "crown"]
+	path = crown
+	url = git@github.com:taylor001/crown.git
+[submodule "gamecode4"]
+	path = gamecode4
+	url = git@github.com:MikeMcShaffry/gamecode4.git
+[submodule "kit"]
+	path = kit
+	url = git@github.com:haikarainen/kit.git
+[submodule "Xenko-Runtime"]
+	path = Xenko-Runtime
+	url = https://git.xenko.com/xenko/Xenko-Runtime.git 
+[submodule "Cell"]
+	path = Cell
+	url = git@github.com:JoeyDeVries/Cell.git
+[submodule "escher"]
+	path = escher
+	url = git@github.com:fuchsia-mirror/escher.git
+[submodule "ogre"]
+	path = ogre
+	url = git@github.com:OGRECave/ogre.git
+[submodule "Serious-Engine"]
+	path = Serious-Engine
+	url = git@github.com:Croteam-official/Serious-Engine.git
+[submodule "UnrealEngine"]
+	path = UnrealEngine
+	url = git@github.com:EpicGames/UnrealEngine.git
+[submodule "Urho3D"]
+	path = Urho3D
+	url = git@github.com:urho3d/Urho3D.git
+[submodule "openFrameworks"]
+	path = openFrameworks
+	url = git@github.com:openframeworks/openFrameworks.git
+[submodule "Live-Coder"]
+	path = Live-Coder
+	url = git@github.com:githole/Live-Coder.git
+[submodule "openFrameworks\\"]
+	path = openFrameworks\\
+	url = git@github.com:openframeworks/openFrameworks.git
