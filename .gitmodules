@@ -73,3 +73,6 @@
 [submodule "Bonzomatic"]
 	path = Bonzomatic
 	url = https://github.com/Gargaj/Bonzomatic
+[submodule "saiga"]
+	path = saiga
+	url = git@github.com:darglein/saiga.git
